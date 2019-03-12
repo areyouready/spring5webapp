@@ -5,6 +5,9 @@ import java.util.HashSet;
 import java.util.Objects;
 import java.util.Set;
 
+/**
+ * created by sebastianbasner on Mar, 2019
+ */
 @Entity
 public class Book {
 
